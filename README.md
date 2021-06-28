@@ -1,2 +1,2 @@
 # Hangman
-Hangman game created in using Python. Project completed while learning Python.
+Hangman game created using Python. Project completed while learning Python.
